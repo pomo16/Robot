@@ -1,4 +1,4 @@
-# histogram-equalization
+# Histogram-equalization
 
 一个带有GUI的直方图均衡软件，可进行灰度直方图均衡和RGB三通道直方图均衡。
 
